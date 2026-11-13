@@ -12,3 +12,7 @@
 リポジトリの Settings → Pages → Build and deployment で、Source を Deploy from a branch、Branch を main、フォルダーを / (root) にして Save。公開完了後に表示されるURLを共有してください。
 
 問題数は151問です。学習用の想定解で、公式解答ではありません。元の講義PDFや過去問画像は含みません。
+
+## 学習サイト
+
+公開先：https://takaharulin.github.io/safety-study/
